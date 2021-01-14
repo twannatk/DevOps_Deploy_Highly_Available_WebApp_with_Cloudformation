@@ -26,5 +26,5 @@ Just run;
 > ./create.sh UdagramApp infrastructure_networkandserver.yml infrastructure_networkandserver.json
 ```
 
-###Credits:
+#### Credits:
 Udacity Cloud DevOps Nanodegree Program
