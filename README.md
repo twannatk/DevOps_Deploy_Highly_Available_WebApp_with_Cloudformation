@@ -1,6 +1,6 @@
 # Udacity Nano Degree - Cloud DevOps Nano Degree Program
 
-## Propject #2 - Deploy a Highly Available Web App using CloudFormation
+## Project #2 - Deploy a Highly Available Web App using CloudFormation
 
 ### **Architectural Diagram**
 <img src="./Udacity - Deploy a High-Availability Web App using CloudFormation - v1_0 (5)-Page-2.jpg">
