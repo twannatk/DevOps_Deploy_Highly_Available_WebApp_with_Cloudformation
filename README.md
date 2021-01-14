@@ -2,12 +2,12 @@
 
 ## Project #2 - Deploy a Highly Available Web App using CloudFormation
 
-### **Architectural Diagram**
+### Architectural Diagram:
 <img src="./Udacity - Deploy a High-Availability Web App using CloudFormation - v1_0 (5)-Page-2.jpg">
 
 
 ### Description:
->In this project, you will deploy web servers for a highly available web app using CloudFormation. You will write the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. You will begin with deploying the networking components, followed by servers, security roles and software.
+In this project, you will deploy web servers for a highly available web app using CloudFormation. You will write the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. You will begin with deploying the networking components, followed by servers, security roles and software.
 
 ### Files included are:
 ```sh
@@ -25,3 +25,6 @@ Just run;
 ```sh
 > ./create.sh UdagramApp infrastructure_networkandserver.yml infrastructure_networkandserver.json
 ```
+
+#####Credits
+Udacity Cloud DevOps Nanodegree Program
