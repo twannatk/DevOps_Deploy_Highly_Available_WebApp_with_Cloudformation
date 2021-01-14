@@ -18,6 +18,7 @@
 * destroy.sh : Cloudformation delete stack script.
 * infrastructure_networkandserver.yml : Udagram Project's CloudFormation script.
 * infrastructure_networkandserver.json : Udagram Project's CloudFormation script parameters.
+```
 
 # Instruction to deploy:
 Just run;
