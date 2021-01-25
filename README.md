@@ -11,19 +11,21 @@ In this project, you will deploy web servers for a highly available web app usin
 
 ### Files included are:
 ```sh
-* /Images-of-result-deploy : Screenshot the result of deploy.
-* /App of Udagram : Udagram App Code (Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function etc ...)
+* /Udacity - Deploy a High-Availability Web App using CloudFormation - v1_0 (5)-Page-2.jpg : Architectural Drawing
+* /App of Udagram : Simple Code for Web Page
+* Infrastructure.yml : Udagram Project's - Infrastructure CloudFormation script.
+* infrastructure-parameters.json : Udagram Project's CloudFormation script - Infrastructure parameters.
+* server.yml : Udagram Project's - Server CloudFormation script.
+* server-parameters.json : Udagram Project's CloudFormation script - Server parameters.
 * create.sh : Cloudformation create stack script. 
 * update.sh : Cloudformation update stack script.
-* destroy.sh : Cloudformation delete stack script.
-* infrastructure_networkandserver.yml : Udagram Project's CloudFormation script.
-* infrastructure_networkandserver.json : Udagram Project's CloudFormation script parameters.
 ```
 
 ### Instruction to deploy:
 Just run;
 ```sh
-> ./create.sh UdagramApp infrastructure_networkandserver.yml infrastructure_networkandserver.json
+> ./create.sh Infrastructure Infrastructure.yml infrastructure-parameters.json
+> ./create.sh Server server.yml server-parameters.json
 ```
 
 #### Credits:
