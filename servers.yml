@@ -23,7 +23,7 @@ Parameters:
   WebAppServersMinSize:
     Description: Minimum number of web application servers
     Type: String
-    Default: '2'
+    Default: '4'
 
   WebAppServersMaxSize:
     Description: Maximum number of web application servers
