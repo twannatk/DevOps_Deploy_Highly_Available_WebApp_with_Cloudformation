@@ -23,6 +23,7 @@ In this project, you will deploy web servers for a highly available web app usin
 ### Instruction to deploy:
 Just run;
 > ./create.sh Infrastructure Infrastructure.yml infrastructure-parameters.json
+Then;
 > ./create.sh Server server.yml server-parameters.json
 
 
